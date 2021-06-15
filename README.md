@@ -11,6 +11,9 @@ https://colab.research.google.com/drive/1rtohsrix2FDRDRR84gvDyuF5YWti_TXj#scroll
 
 3 - Response from backend which gives Mailage
 
+<img width="392" alt="Screenshot 2021-06-15 at 8 06 34 PM" src="https://user-images.githubusercontent.com/55822384/122072506-4314be00-ce15-11eb-8517-9638724d71e6.png">
+
+
 4 - Option for user to send data to data base
 
 5 - A form to update the correct response in backend database
@@ -26,6 +29,10 @@ https://colab.research.google.com/drive/1rtohsrix2FDRDRR84gvDyuF5YWti_TXj#scroll
   * Serving a model as a web application
   
   * Form in Django
+
+
+<img width="1280" alt="Screenshot 2021-06-15 at 8 05 16 PM" src="https://user-images.githubusercontent.com/55822384/122072266-09dc4e00-ce15-11eb-91ec-984fb8d66806.png">
+
 
 
 
